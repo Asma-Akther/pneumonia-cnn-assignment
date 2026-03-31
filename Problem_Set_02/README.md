@@ -87,7 +87,7 @@ Target Variable:
 
 ## Conclusion
 
-The Logistic Regression model performs well in identifying non-subscribers but struggles to correctly identify customers who will subscribe.
+The Logistic Regression model performs well in identifying non-subscribers but struggles to correctly identify customers who will subscribe, this is due to class imbalance in the dataset.
 
 ---
 
